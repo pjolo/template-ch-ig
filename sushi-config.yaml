@@ -36,6 +36,12 @@ dependencies:
 pages:
   index.md:
     title: Home
+  document.md:
+    title: Document
+  usecase-german.md:
+    title: Anwendungsfälle
+  usecase-french.md:
+    title: Cas d'application 
   guidance.md:
     title: Guidance
   profiles.md:
@@ -49,6 +55,10 @@ pages:
 
 menu:
   Home: index.html
+  Document: document.html
+  Use Case:
+   German: usecase-german.html
+   French: usecase-french.html
   Guidance: guidance.html
   Profiles: profiles.html
   Extensions: extensions.html
